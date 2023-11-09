@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practicca MVVM</string>
+    <string name="enter_number">Enter a number</string>
+    <string name="double_number">Double the Number</string>
+</resources>
